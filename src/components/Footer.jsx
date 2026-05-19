@@ -40,10 +40,10 @@ const Footer = () => {
             The bridge between visionaries and builders. Connecting students, founders, and investors to scale ambition into reality.
           </p>
           <div className="social-links">
-            <a href="https://instagram.com" target="_blank" rel="noreferrer" className="social-icon" title="Instagram">
+            <a href="https://www.instagram.com/kiran._mr.8/" target="_blank" rel="noreferrer" className="social-icon" title="Instagram">
               <InstagramIcon />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="social-icon" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/kiransai-pasupuleti-106b24323/" target="_blank" rel="noreferrer" className="social-icon" title="LinkedIn">
               <LinkedInIcon />
             </a>
           </div>
